@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-finance.db
-venv/
-.env
-cookies.txt
-server.log
-.DS_Store
