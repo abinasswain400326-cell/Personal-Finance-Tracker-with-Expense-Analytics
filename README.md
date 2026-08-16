@@ -26,12 +26,12 @@ spending forecast for next month.
 
 ## Features
 
-- 🔐 **Authentication** — secure registration/login with hashed passwords (Flask-Login + Werkzeug)
-- 💸 **Transaction management** — add/delete income & expense entries with category, note, and recurring flag
-- 📊 **Analytics dashboard** — category-wise doughnut chart and monthly income/expense bar chart (Chart.js)
-- 🔮 **Spending forecast** — 3-month moving average model predicts next month's likely expense
-- 🎯 **Budget alerts** — set a monthly budget and get warned at 80%+ and 100%+ usage
-- 📱 **Responsive UI** — clean dashboard that works on desktop and mobile
+-  **Authentication** — secure registration/login with hashed passwords (Flask-Login + Werkzeug)
+-  **Transaction management** — add/delete income & expense entries with category, note, and recurring flag
+-  **Analytics dashboard** — category-wise doughnut chart and monthly income/expense bar chart (Chart.js)
+-  **Spending forecast** — 3-month moving average model predicts next month's likely expense
+-  **Budget alerts** — set a monthly budget and get warned at 80%+ and 100%+ usage
+-  **Responsive UI** — clean dashboard that works on desktop and mobile
 
 ## Tech Stack
 
